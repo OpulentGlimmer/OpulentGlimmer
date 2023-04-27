@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datastation7&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datastation7&show_icons=true&theme=github_dark)
 
 ✍🏻 Recent blog posts
 
