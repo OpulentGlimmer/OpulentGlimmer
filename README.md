@@ -3,43 +3,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datastation7&show_icons=true&theme=radical)
 
 ✍🏻 Recent blog posts
-- TIL 
-  - 01. markdown study
-  - 02. git study
-  - 03. python study
-    - intro.py
-    - python_basic
-    - condition loop
-    - function
-    - data methods
-    - stack
-    - queue
-    - numpy
-  - 04. python PJT
-    - API를 사용해서 python data 수집하는 프로젝트
-  - 05. python algorithms problem solving
-  - 06. web study
-    - HTML
-    - CSS
-    - Bootstrap
-  - 07. Machine Learning
-    - Linear Regression(선형 회귀)
-  - 08. Deep Learning
-    - Activation function
-    - Avoiding overfitting
-    - Basic
-    - Cost function
-    - Deep Learning Concepts
-    - Gradient Descent Algorithm
-    - Linear Learning
-    - ReLU function
-    - Sigmoid function
-    - Step function
-    - Supervised Learning
-    - Tanh function
-    - Unsupervised Learning
-    - Weight lnitialization
 
+-  TIL
+   -  Today I Learned의 약자이다.
+   -  그 날 공부한 것들을 정리한 곳이다.
+  
 - Project
   - First project
     - SNIA는 SAN(Storage Area Network) 표준과 관련하여 70개 이상의 관련 업체가 구성한 국제 비영리 산업단체인데 여기서 데이터를 출처하였다.
