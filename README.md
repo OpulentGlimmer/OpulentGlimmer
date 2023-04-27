@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datastation7&layout=compact&theme=github_dark)
 
-![github_dark_repo]:(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=github_dark)
+[github_dark_repo]:https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
 
 ✍🏻 Recent blog posts
 
