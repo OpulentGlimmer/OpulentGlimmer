@@ -16,4 +16,4 @@
   - 컴퓨터활용능력1급
 
 - My Notion 사이트 주소
-  - https://www.notion.so/9e31bca5697a4d53a9a394d3ef9b2951?pvs=3
+  - https://www.notion.so/693a04a9d45f42279486c4229423480a
