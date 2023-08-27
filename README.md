@@ -9,6 +9,10 @@
 -  TIL
    -  Today I Learned의 약자이다.
    -  그 날 공부한 것들을 정리한 곳이다.
+
+- Certifications
+  - NCP 네이버 클라우드 자격증
+  - 컴퓨터활용능력1급
   
 - Project
   - First project
