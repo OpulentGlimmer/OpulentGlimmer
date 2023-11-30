@@ -1,5 +1,5 @@
 ### Hi there. 👋
-### My name is Eunyoung Park.
+### My name is EUNYOUNG PARK.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpulentGlimmer&theme=github_dark&show_icons=true)
 
